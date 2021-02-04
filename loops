@@ -1,0 +1,25 @@
+if___else statement:
+
+- if else is used for decision making in programming. it can used to test 1 or more conditions.
+- syntax: 
+if test_condition:
+  statement(s)
+elif test_condition2:
+  statement(s)
+else test_condition3:
+  statement(s)
+  
+
+For Loop:
+ for loop can be used for running a loop on certain consitions or range
+ syntax: for item in range()/seq:
+                statement/conditon()
+                
+we can use else statement as well.
+
+While loop:
+while loop is useful where we need to run a code infinite times. it keeps testing the condition till its true.
+
+Break/continue:
+- Break can be used to break the loops 
+- continue if used to skip further code and go next to other iteration
